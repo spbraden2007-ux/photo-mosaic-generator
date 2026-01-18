@@ -48,7 +48,7 @@ Three years later, after learning to code, I revisited this art form with a new 
   <br/><br/>
 </td>
 <td>
-  <img src="output/output.jpg" width="400" alt="Generated Photo Mosaic Output"/>
+  <img src="output/Output.jpg" width="400" alt="Generated Photo Mosaic Output"/>
 </td>
 </tr>
 </table>
