@@ -226,6 +226,7 @@ All tile images in this project are original works: personal photographs, family
 
 **Seohyun Park**  
 University of Waterloo, Computer Science  
-*June - August 2025*
+Korea Presidential Science Scholarship Recipient
 
-[![GitHub](https://img.shields.io/badge/GitHub-spbraden2007--ux-181717?style=flat&logo=github)](https://github.com/spbraden2007-ux)
+[![GitHub](https://img.shields.io/badge/GitHub-seohyunpark-181717?style=flat&logo=github)](https://github.com/spbraden2007-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seohyunpark-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sp-park)
