@@ -37,12 +37,19 @@ Three years later, after learning to code, I revisited this art form with a new 
 
 <table>
 <tr>
-<td align="center"><b>Input</b></td>
-<td align="center"><b>Output (650+ tiles)</b></td>
+<td align="center" width="50%"><b>Input Library</b></td>
+<td align="center" width="50%"><b>Final Output</b></td>
 </tr>
 <tr>
-<td><img src="examples/input.jpg" width="400"/></td>
-<td><img src="examples/output.jpg" width="400"/></td>
+<td align="center" bgcolor="#f8f9fa">
+  <br/><br/>
+  <h1 style="color: #3776AB; font-family: sans-serif;">650+</h1>
+  <p style="color: #666; font-family: sans-serif;">Original Images & Artworks</p>
+  <br/><br/>
+</td>
+<td>
+  <img src="output/output.jpg" width="400" alt="Generated Photo Mosaic Output"/>
+</td>
 </tr>
 </table>
 
